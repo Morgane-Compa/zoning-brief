@@ -42,10 +42,10 @@ Linkedin being a responsive / adaptive application, zoning must be done on diffe
 for more details [please check this figma](https://www.figma.com/design/r61Bx6hgD6J0R76ed7y2wX/zoning?node-id=0-1&node-type=canvas&t=4Gi9oXjCHibsT2Hp-0)
 
 ### Desktop Format
-![zoning of the desktop version of linkedin](/images/Frame 1.png)
+![zoning of the desktop version of linkedin](https://github.com/Morgane-Compa/zoning-brief/blob/main/images/Frame%201.png)
 
 ### Tablet Format
-![zoning of the tablet version of linkedin](/images/Frame 2.png)
+![zoning of the tablet version of linkedin](https://github.com/Morgane-Compa/zoning-brief/blob/main/images/Frame%202.png)
 
 ### Moblie Format
-![zoning of the phone version of linkedin](/images/Frame 3.png)
+![zoning of the phone version of linkedin](https://github.com/Morgane-Compa/zoning-brief/blob/main/images/Frame%203.png)
